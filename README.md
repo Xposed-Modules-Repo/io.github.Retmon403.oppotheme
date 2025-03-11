@@ -29,7 +29,7 @@
 5. 打开主题商店，享受解锁功能。
 
 ### 下载
-- 最新Release链接：[https://github.com/Retmon403/OppoOplusThemeUnlock](#)
+- 最新链接：[https://github.com/Retmon403/OppoOplusThemeUnlock/releases/tag/OppoOplusThemeUnlock](#)
 
 ### 注意事项
 - 本模块仅用于学习和测试目的，请勿用于商业用途。
