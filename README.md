@@ -4,6 +4,8 @@
   <img src="https://github.com/Retmon403/OppoOplusThemeUnlock/blob/main/p1.png" alt="图片1" width="48%" />
   <img src="https://github.com/Retmon403/OppoOplusThemeUnlock/blob/main/p2.png" alt="图片2" width="48%" />
 </div>
+## Description
+Oppo一加主题商店VIP内容解锁，冲nm的vip（理论一加OPPO新机型通用）
 
 ## 测试版本
 机型：一加ACE5，理论Oppo通用，coloros15.  
