@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="xposed_scope" >
+        <!-- 这里填写模块的作用域应用的包名，可以填多个。 -->
+        <item>com.heytap.themestore</item>
+    </string-array>
+</resources>
