@@ -32,7 +32,7 @@ Oppo一加主题商店VIP内容解锁，去除开屏广告，冲nm的vip（理�
 5. 打开主题商店，享受解锁功能。
 
 ### 下载
-- 最新链接：[https://github.com/Retmon403/OppoOplusThemeUnlock/releases/tag/OppoOplusThemeUnlock](#)
+- 最新链接：[https://github.com/Xposed-Modules-Repo/io.github.Retmon403.oppotheme/releases/tag/VersionCode-VersionName](#)
 
 ### 注意事项
 - 本模块仅用于学习和测试目的，请勿用于商业用途。
