@@ -38,7 +38,7 @@ Oppo一加主题商店VIP内容解锁，去除开屏广告，冲nm的vip
 
 ### 下载
 
-- 最新链接：(https://github.com/Xposed-Modules-Repo/io.github.Retmon403.oppotheme/releases/download/2-1.1/OppoOplusThemeUnlock.apk)
+- 最新链接：(https://github.com/Xposed-Modules-Repo/io.github.Retmon403.oppotheme/releases/download/3-1.2/OppoOPlusThemeUnlock.apk)
 
 ### 注意事项
 
