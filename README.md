@@ -1,4 +1,4 @@
-# Oppo一加主题商店解锁
+# Oppo一加主题解锁
 
 Oppo一加主题商店VIP内容解锁，去除开屏广告，冲nm的vip
 
@@ -33,12 +33,12 @@ Oppo一加主题商店VIP内容解锁，去除开屏广告，冲nm的vip
 1. 确保已安装 Xposed 或 LSPosed 框架。
 2. 下载并安装本模块的 APK 文件。
 3. 在 Xposed 或 LSPosed 中启用模块 ，并选择应用 主题商店。
-4. 结束主题商店进程，再重新启动（很重要，很重要，很重要，很重要，很重要，很重要，很重要）。
+4. 结束主题商店进程，重新启动。
 5. 享受解锁功能。
 
 ### 下载
 
-- 最新链接：(https://github.com/Xposed-Modules-Repo/io.github.Retmon403.oppotheme/releases/download/3-1.2/OppoOPlusThemeUnlock.apk)
+- 最新链接：(https://github.com/Xposed-Modules-Repo/io.github.Retmon403.oppotheme/releases/download/2-1.1/OppoOplusThemeUnlock.apk)
 
 ### 注意事项
 
