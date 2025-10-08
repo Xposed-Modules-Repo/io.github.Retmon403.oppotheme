@@ -8,10 +8,8 @@ Oppo一加主题商店VIP内容解锁，去除开屏广告，冲nm的vip
 系统：coloros15.  
 应用商店版本：13.0.0_16a1836_250307
 
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/Retmon403/OppoOplusThemeUnlock/blob/main/p1.png" alt="图片1" width="35%" />
-  <img src="https://github.com/Retmon403/OppoOplusThemeUnlock/blob/main/p2.png" alt="图片2" width="35%" />
-</div>
+![图片1](https://github.com/Retmon403/OppoOplusThemeUnlock/raw/main/p1.png)
+![图片2](https://github.com/Retmon403/OppoOplusThemeUnlock/raw/main/p2.png)
 
 ### 简介
 
