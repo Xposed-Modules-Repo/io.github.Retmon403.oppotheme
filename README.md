@@ -1,62 +1,107 @@
-# Oppo一加主题解锁
+# 🎨 Oppo & OnePlus 主题商店解锁模块  
 
-- VIP内容解锁、主题、字体、息屏动画等
-- 去除开屏广告
-- 禁用APP自动更新
-- 禁用广告
 
-<table border="0">
+  <br>
+  <div align="center">
+  <img src="https://img.shields.io/badge/%E7%89%88%E6%9C%AC-v1.4-blue.svg" alt="版本">
+  <img src="https://img.shields.io/badge/Android-15+-green.svg" alt="Android版本">
+  <img src="https://img.shields.io/badge/%E6%94%AF%E6%8C%81-Xposed%2FLSPosed-orange.svg" alt="支持框架">
+  <img src="https://img.shields.io/badge/%E8%AE%B8%E5%8F%AF%E8%AF%81-MIT-lightgrey.svg" alt="许可证">
+
+  ✨ 解锁 Oppo 和一加主题商店的完整 VIP 体验 ✨
+</div>
+
+## 📸 效果预览
+
+<table border="0" align="center">
   <tr>
-    <td align="center"><img src="https://github.com/Xposed-Modules-Repo/io.github.Retmon403.oppotheme/blob/main/1.png" alt="图片1"></td>
-    <td align="center"><img src="https://github.com/Xposed-Modules-Repo/io.github.Retmon403.oppotheme/blob/main/2.png" alt="图片2"></td>
+    <td align="center">
+      <img src="https://github.com/Xposed-Modules-Repo/io.github.Retmon403.oppotheme/blob/main/1.png" alt="解锁前" width="300">
+    </td>
+    <td align="center">
+      <img src="https://github.com/Xposed-Modules-Repo/io.github.Retmon403.oppotheme/blob/main/3.png" alt="解锁后" width="300">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">🔓 动态锁屏</td>
+    <td align="center">🔒 息屏动画</td>
   </tr>
 </table>
 
-## 测试版本
+## 🚀 主要功能
 
-机型：一加ACE5（理论一加OPPO通用）  
-系统：coloros15  
-应用商店版本：13.15.0
+### 🎯 核心解锁功能
+- 💎 VIP 内容全面解锁 - 免费使用所有付费主题、字体、壁纸
+- 🎨 主题资源解锁 - 包括动态壁纸、静态壁纸、艺术壁纸
+- ✨ AOD 息屏动画 - 解锁所有炫酷的息屏显示效果
+- 🔧 桌面小组件 - 免费使用 VIP 专属小组件
+- 🎭 字体库解锁 - 所有付费字体随意使用
+
+### 🛡️ 优化体验功能
+- 🚫 去除开屏广告 - 启动应用即享纯净体验
+- ⚡ 禁用自动更新 - 防止功能被更新覆盖
+- 📢 广告屏蔽 - 全面屏蔽应用内广告
+- 🔒 功能持久化 - 稳定可靠，重启不失效
+
+## 📋 兼容性信息
+
+### 🧪 测试环境
+
+| 项目       | 详情                |
+|------------|---------------------|
+| 测试机型   | 一加 ACE 5          |
+| 系统版本   | ColorOS 15          |
+| 主题商店   | 13.15.0             |
+| Android    | 15+                 |
+
+### 📱 支持设备
+- ✅ 一加全系列 (OnePlus)
+- ✅ OPPO 全系列
+- ✅ Realme 系列 (基于 ColorOS)
+- ✅ 其他 ColorOS 设备
+
+## ⚙️ 安装指南
+
+### 前置要求
+- 🔧 已安装 Xposed 框架 (推荐使用 LSPosed)
+- 📱 Android 15 及以上系统
+- 💾 足够的存储空间
+
+### 安装步骤
+1. 📥 下载模块  
+   直接访问链接下载 APK：https://github.com/Xposed-Modules-Repo/io.github.Retmon403.oppotheme/releases/download/5-1.4/OppoOPlusThemeUnlock-v1.4.apk
 
 
-### 简介
+2. 🔌 安装并激活  
+- 安装下载的 APK 文件  
+- 打开 LSPosed/Xposed 框架  
+- 在模块列表中启用本模块  
+- 作用域选择“主题商店”（确保仅对主题商店生效）
 
-这是一个基于 Xposed 框架的模块，用于解锁 Oppo 和一加设备的主题商店限制。通过 Hook 系统方法，反射等技术实现功能。  
+3. 🔄 重启应用  
+- 强制停止“主题商店”应用（在手机设置-应用管理中操作）  
+- 重新打开主题商店  
+- 享受解锁后的 VIP 功能！🎉
 
-### 功能特性
+## 🎨 使用效果
 
-- 解锁VIP付费主题、壁纸、字体、小组件、息屏动画、动态壁纸、去除开屏广告、禁用自动更新 
-- 支持最新版本的 Oppo 和一加主题商店
+| 功能       | 效果描述                          |
+|------------|-----------------------------------|
+| 主题解锁   | 🎯 所有付费主题直接应用，无需付费  |
+| 字体解锁   | ✍️ 任意更换 VIP 字体，个性十足    |
+| AOD 效果   | 🌟 炫酷息屏动画随心设置            |
+| 广告去除   | 🚀 启动速度更快，体验更纯净        |
 
-### 兼容性
+## ⚠️ 重要说明
 
-- 设备：Oppo、一加（ColorOS 系统）
-- 系统：Android 15 及以上
-- 框架：Xposed 或 LSPosed
+### 📝 注意事项
+- 🚨 仅供学习测试使用，请勿用于商业用途或侵犯版权的行为  
+- ⚠️ 使用过程中若出现应用闪退、功能异常，需自行承担风险  
+- 🔄 建议关注仓库更新，新版本会修复兼容性问题和优化功能  
+- 📊 遇到问题时，可在 GitHub Issues 中反馈（需提供设备型号、系统版本等信息）
 
-| 息屏动画 | 字体 |
-| :---: | :---: |
-| ![图片1](https://github.com/Xposed-Modules-Repo/io.github.Retmon403.oppotheme/blob/main/3.png) <br>  | ![图片2](https://github.com/Xposed-Modules-Repo/io.github.Retmon403.oppotheme/blob/main/4.png) <br>  |
-
-
-
-### 安装方法
-
-1. 确保已安装 Xposed 或 LSPosed 框架。
-2. 下载并安装本模块的 APK 文件。
-3. 在 Xposed 或 LSPosed 中启用模块 ，并选择应用 主题商店。
-4. 结束主题商店进程，重新启动。
-5. 享受解锁功能。
-
-### 下载
-
-- https://github.com/Xposed-Modules-Repo/io.github.Retmon403.oppotheme/releases/download/5-1.4/OppoOPlusThemeUnlock-v1.4.apk
-
-### 注意事项
-
-- 本模块仅用于学习和测试目的，请勿用于商业用途。
-- 使用本模块可能导致设备不稳定或无法使用主题商店，请谨慎操作。
-
-### 开源协议
-
-本项目基于 [MIT 协议](https://opensource.org/licenses/MIT) 开源。
+### 🔒 法律声明
+本项目基于 MIT 协议开源，仅用于技术研究和学习交流。请遵守相关法律法规，支持正版软件，下载后建议在 24 小时内删除测试。 
+本项目采用 **MIT 协议** 开源，协议内容如下：https://opensource.org/license/MIT  
+MIT License
+Copyright (c) 2024 Retmon403
