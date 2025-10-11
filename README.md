@@ -1,23 +1,27 @@
 # Oppo一加主题解锁
 
-Oppo一加主题商店VIP内容解锁，去除开屏广告，冲nm的vip
+- VIP内容解锁、主题、字体、息屏动画等
+- 去除开屏广告
+- 禁用APP自动更新
+- 禁用广告
 
 ## 测试版本
 
-机型：一加ACE5，（理论一加OPPO新机型通用）  
-系统：coloros15.  
-应用商店版本：13.0.0_16a1836_250307
+机型：一加ACE5（理论一加OPPO通用）  
+系统：coloros15  
+应用商店版本：13.15.0
 
-![图片1](https://github.com/Retmon403/OppoOplusThemeUnlock/raw/main/p1.png)
-![图片2](https://github.com/Retmon403/OppoOplusThemeUnlock/raw/main/p2.png)
+| 主题 | 字体 |
+| :---: | :---: |
+| ![图片1](https://github.com/Retmon403/OppoOplusThemeUnlock/raw/main/p1.png) <br> *（可选：图片说明1）* | ![图片2](https://github.com/Retmon403/OppoOplusThemeUnlock/raw/main/p2.png) <br> *（可选：图片说明2）* |
 
 ### 简介
 
-这是一个基于 Xposed 框架的模块，用于解锁 Oppo 和一加设备的主题商店限制。通过 Hook 系统方法，实现免费使用付费主题的功能。
+这是一个基于 Xposed 框架的模块，用于解锁 Oppo 和一加设备的主题商店限制。通过 Hook 系统方法，反射等技术实现功能。  
 
 ### 功能特性
 
-- 解锁VIP付费主题、壁纸、字体、小组件、去除开屏广告
+- 解锁VIP付费主题、壁纸、字体、小组件、息屏动画、动态壁纸、去除开屏广告、禁用自动更新 
 - 支持最新版本的 Oppo 和一加主题商店
 
 ### 兼容性
@@ -36,7 +40,7 @@ Oppo一加主题商店VIP内容解锁，去除开屏广告，冲nm的vip
 
 ### 下载
 
-- 最新链接：(https://github.com/Xposed-Modules-Repo/io.github.Retmon403.oppotheme/releases/download/2-1.1/OppoOplusThemeUnlock.apk)
+- 最新链接：([https://github.com/Xposed-Modules-Repo/io.github.Retmon403.oppotheme/releases/download/2-1.1/OppoOplusThemeUnlock.apk](https://github.com/Xposed-Modules-Repo/io.github.Retmon403.oppotheme/releases/download/5-1.4/OppoOPlusThemeUnlock-v1.4.apk))
 
 ### 注意事项
 
