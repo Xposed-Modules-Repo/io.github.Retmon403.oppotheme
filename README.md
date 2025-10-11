@@ -5,9 +5,12 @@
 - 禁用APP自动更新
 - 禁用广告
 
-| 动态锁屏 | 桌面 |
-| :---: | :---: |
-| ![图片1](https://github.com/Xposed-Modules-Repo/io.github.Retmon403.oppotheme/blob/main/1.png) <br>  | ![图片2](https://github.com/Xposed-Modules-Repo/io.github.Retmon403.oppotheme/blob/main/2.png) <br>  |
+<table border="0">
+  <tr>
+    <td align="center"><img src="https://github.com/Xposed-Modules-Repo/io.github.Retmon403.oppotheme/blob/main/1.png" alt="图片1"></td>
+    <td align="center"><img src="https://github.com/Xposed-Modules-Repo/io.github.Retmon403.oppotheme/blob/main/2.png" alt="图片2"></td>
+  </tr>
+</table>
 
 ## 测试版本
 
