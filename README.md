@@ -5,15 +5,16 @@
 - 禁用APP自动更新
 - 禁用广告
 
+| 动态锁屏 | 桌面 |
+| :---: | :---: |
+| ![图片1](https://github.com/Xposed-Modules-Repo/io.github.Retmon403.oppotheme/blob/main/1.png) <br>  | ![图片2](https://github.com/Xposed-Modules-Repo/io.github.Retmon403.oppotheme/blob/main/2.png) <br>  |
+
 ## 测试版本
 
 机型：一加ACE5（理论一加OPPO通用）  
 系统：coloros15  
 应用商店版本：13.15.0
 
-| 主题 | 字体 |
-| :---: | :---: |
-| ![图片1](https://github.com/Retmon403/OppoOplusThemeUnlock/raw/main/p1.png) <br> *（可选：图片说明1）* | ![图片2](https://github.com/Retmon403/OppoOplusThemeUnlock/raw/main/p2.png) <br> *（可选：图片说明2）* |
 
 ### 简介
 
@@ -30,6 +31,12 @@
 - 系统：Android 15 及以上
 - 框架：Xposed 或 LSPosed
 
+| 息屏动画 | 字体 |
+| :---: | :---: |
+| ![图片1](https://github.com/Xposed-Modules-Repo/io.github.Retmon403.oppotheme/blob/main/3.png) <br>  | ![图片2](https://github.com/Xposed-Modules-Repo/io.github.Retmon403.oppotheme/blob/main/4.png) <br>  |
+
+
+
 ### 安装方法
 
 1. 确保已安装 Xposed 或 LSPosed 框架。
@@ -40,7 +47,7 @@
 
 ### 下载
 
-- 最新链接：([https://github.com/Xposed-Modules-Repo/io.github.Retmon403.oppotheme/releases/download/2-1.1/OppoOplusThemeUnlock.apk](https://github.com/Xposed-Modules-Repo/io.github.Retmon403.oppotheme/releases/download/5-1.4/OppoOPlusThemeUnlock-v1.4.apk))
+- https://github.com/Xposed-Modules-Repo/io.github.Retmon403.oppotheme/releases/download/5-1.4/OppoOPlusThemeUnlock-v1.4.apk
 
 ### 注意事项
 
